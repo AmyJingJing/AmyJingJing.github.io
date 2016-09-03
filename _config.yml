@@ -17,7 +17,7 @@ title: 五❤️五开
 email: 32892735@qq.com
 description: 这只喵很懒～
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://amyjingjing.github.io/amy.github.io" # the base hostname & protocol for your site
+url: "https://amyjingjing.github.io" # the base hostname & protocol for your site
 # github_username:  jekyll
 
 # Build settings
