@@ -1,0 +1,31 @@
+{
+	"name": "中文",
+	"terms": [{
+		"profile_photo": {
+			"name": "🐱小猫小姐🐱",
+			"position": "但盼风雨来 能留你在此",
+			"change": "change to ",
+			"scroll_down": "下拉拉拉",
+			"section": "我"
+		},
+    "blog_posts":{
+      "section": "文章"
+    },
+		"profile_about": {
+			"title": "About",
+			"paragraph_1": "My full name is Charlotte Donini, but my friends call me simply 'Lotte' :-). I am a <a href='https://pt.wikipedia.org/wiki/Labrador_retriever' title='Labrador in wiki' target='_blank'> female labrador retriever </a>. I live with my lovely family.",
+			"paragraph_2": "I am very playful with my large size I drop everything that crosses in my way.",
+			"paragraph_3": "I love eating and sleeping during the day, lie in the sun belly up is my preferred position.",
+			"paragraph_4": "Run and walk with my master are my favorite sports.",
+			"section": "About",
+			"title_social": "Social"
+		},
+		"profile_quote": {
+			"title": "Favorite quote",
+			"quote": "\" No matter that few are your possessions and your money. Having a dog makes you rich. \"",
+			"author": "Louis Sabin",
+			"section": "Quote"
+		},
+		"copyright": "Copyright © 2016 5♥5 Inc. Powered by Amy and <a href='http://veetase.cf' target='_blank'>Veetase</a>"
+	}]
+}

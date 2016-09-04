@@ -13,16 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 五❤️五开
+title: I am not Amy
 email: 32892735@qq.com
 description: 这只喵很懒～
 baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://localhost:4000"
 url: "https://amyjingjing.github.io" # the base hostname & protocol for your site
 # github_username:  jekyll
-
+logo: "/assets/img/profile_photo.png"
 # Build settings
 markdown: kramdown
 # theme: minima
 exclude: [vendor]
+sass:
+    sass_dir: assets/css/sass
+    style: compressed
 gems:
- - jekyll-paginate
+  - jekyll-gist
+  - jekyll-paginate
