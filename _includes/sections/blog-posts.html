@@ -5,7 +5,7 @@
 		<li>
 			<a href="{{ site.url | prepend: site.baseurl }}{{ post.url }}">
 				<span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
-        <br />
+        <p style="margin-top: 10px;"></p>
 				{{ post.title }}
 				<p style="margin-top: 10px;">{{ post.excerpt | strip_html | strip_newlines | truncate: 180 }}</p>
 			</a>
