@@ -30,6 +30,10 @@ p { font-size: $p_size; }
     }
 }
 
+.tab-community{
+  display: none;
+}
+
 hr {
     width: 100px;
     background: $color_grey_dark;;
@@ -84,7 +88,7 @@ footer {
     width: 6px;
     height: 6px;
     background-color: transparent !important;
-    border:2px solid $color_black; 
+    border:2px solid $color_black;
 }
 .section-bullets li a:before {
     background-color: transparent !important;;
@@ -100,7 +104,7 @@ footer {
     background-color: $color_white !important;
 }
 .section-bullets-white li.active a:after {
-    border:2px solid $color_white !important; 
+    border:2px solid $color_white !important;
 }
 .section-bullets-white li span {
     color: $color_white !important;
