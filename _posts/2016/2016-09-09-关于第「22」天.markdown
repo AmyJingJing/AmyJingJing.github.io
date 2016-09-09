@@ -56,4 +56,4 @@ hiahia~~
 
 好想你💋  
 好想你们
-![fff]({{site.url}}assets/img/22.jpeg)
+![fff]({{site.url}}/assets/img/22.jpeg)
